@@ -55,7 +55,7 @@ Based on the trade-offs above, I implemented a **Push-Based, Event-Driven Archit
 5. **Self-Cleaning Design**:
    - **DynamoDB TTL**: Records silently delete themselves 1 hour after firing.
    - **ActionAfterCompletion**: EventBridge schedules delete themselves immediately after successfully triggering the Worker Lambda.
-     <img width="5269" height="2333" alt="image" src="https://github.com/user-attachments/assets/ad55134c-65bd-4560-b4e0-bef9c99cf76d" />
+<img width="5269" height="2333" alt="image" src="https://github.com/user-attachments/assets/ad55134c-65bd-4560-b4e0-bef9c99cf76d" />
 
 ## 🚀 Getting Started
 
