@@ -81,8 +81,8 @@ npx cdk deploy
 
 ## 🧪 API Endpoints
 
-POST /reminders: Schedule a new reminder.
+``POST /reminders:`` Schedule a new reminder.
 
-GET /reminders: List current reminders.
+``GET /reminders:`` List current reminders.
 
-DELETE /reminders/{id}: Cancel a reminder and instantly delete its pending schedule.
+``DELETE /reminders/{id}:`` Cancel a reminder and instantly delete its pending schedule. *Important the id is not a query string, but a path parameter*
