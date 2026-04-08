@@ -1,6 +1,6 @@
 # MONEI Serverless Backend Challenge 🚀
 
-A high-performance, event-driven reminder service built with **TypeScript**, **AWS CDK**, and **Amazon EventBridge Scheduler**.
+An event-driven reminder service built with **TypeScript**, **AWS CDK**, and **Amazon EventBridge Scheduler**.
 
 ## 🧠 Development Philosophy: An "AI-Collaborative" Approach
 
